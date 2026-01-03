@@ -41,4 +41,3 @@ The Power BI dashboard provides interactive and visual insights, including:
 
 
 
-⭐ If you find this project helpful, feel free to star the repository!
